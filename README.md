@@ -2,7 +2,6 @@
 - Previously, I was a Doctoral Researcher at Microwave Remote Sensing Lab (MRSLab), CSRE, IITBombay, India. My PhD Thesis has been supervised by Prof.Avik Bhattacharya. 
 - 👀 My doctoral research was focused mainly on Polarimetric Synthetic Aperture Radar (PolSAR) data and Probabilistic machine learning techniques.
 - 🌱 I had worked on the utilisation of process-based regression techniques for retrieving biophysical parameters of crops and forests.
--  I’m looking to collaborate on the application of probabilistic machine learning techniques in multi-sensor remote sensing data.
 - 📫 Do drop me an email at swarnendughosh92@gmail.com
 
 <!---
