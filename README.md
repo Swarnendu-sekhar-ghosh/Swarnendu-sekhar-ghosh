@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Swarnendu Sekhar Ghosh currently a Doctortal Researcher at Microwave Remote Sensing Lab (MRSLab), CSRE, IITBombay,India.
-- 👀 I’m interested in Polarimetric Synthetic Aperture Radar (PolSAR) data and Probabilistic machine learning techniques.
-- 🌱 I’m currently learning utilization of process based regression techniques for retrieving biophyscial parameters of crops and forests.
--  I’m looking to collaborate on application of probabilistic machine learning techniques in multi-sensor remote sensing data.
-- 📫 Do drop me an email in swarnendughosh92@gmail.com
+- 👋 Hi, I’m @Swarnendu Sekhar Ghosh, currently a postdoctoral researcher at the University of Genoa in the Department of Naval, Electrical, Electronic and Telecommunications Engineering (DITEN). 
+- Earlier, I was a Doctoral Researcher at Microwave Remote Sensing Lab (MRSLab), CSRE, IITBombay, India. My PhD Thesis has been supervised by Prof.Avik Bhattacharya. 
+- 👀 My doctoral research was focused mainly on Polarimetric Synthetic Aperture Radar (PolSAR) data and Probabilistic machine learning techniques.
+- 🌱 I had worked on the utilisation of process-based regression techniques for retrieving biophysical parameters of crops and forests.
+-  I’m looking to collaborate on the application of probabilistic machine learning techniques in multi-sensor remote sensing data.
+- 📫 Do drop me an email at swarnendughosh92@gmail.com
 
 <!---
 Swarnendu-sekhar-ghosh/Swarnendu-sekhar-ghosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
